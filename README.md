@@ -1,1 +1,1 @@
-# Deep-Learning-Faciel-Image-Processing-with-AWS
+# Deep-Learning-Facial-Image-Processing-with-AWS
